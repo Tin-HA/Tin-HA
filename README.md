@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bienvenido a mi perfil! 👋
+
+👋 Hola soy Martín, me gusta desarrollar aplicaciones Android con java y kotlin.
+
+
 
 <!--
 **Tin-HA/Tin-HA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
