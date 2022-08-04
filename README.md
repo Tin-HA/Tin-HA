@@ -2,7 +2,8 @@
 
 👋 Hola soy Martín, me gusta desarrollar aplicaciones Android con java y kotlin.
 
-
+- 🌱 Actualmente estoy aprendiendo desarrollo Android y desarrollo Back-end con Java.
+- 📫 Contacto: eha.martin@gmail.com
 
 <!--
 **Tin-HA/Tin-HA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
